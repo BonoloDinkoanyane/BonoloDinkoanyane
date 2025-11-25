@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎓 Second-year Bachelor of Computer and Information Science student with a strong performance <br>👨‍💻 coding and creating useful systems<br>🌱 I learn best by building real, full-stack applications from scratch<br>📍Johannesburg, South Africa
+# 👋 I'm Bonolo Dinkoanyane:
+🎓 A second-year Bachelor of Computer and Information Science student with a strong performance <br> 👨‍💻Junior Software Developer<br>👨‍💻 coding and creating useful systems<br>🌱 I learn best by building real, full-stack applications from scratch<br>📍Johannesburg, South Africa
 
 
 # 💻 Tech Stack:
